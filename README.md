@@ -46,7 +46,7 @@ Unit-экономика
 ВБ-анализ.xlsx`
 
 Дашборд анализа 
-![Dashboard]( )
+![Dashboard]([(https://github.com/anatol1986/wb-marketplace-analysis/blob/main/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4.png))
 
 Матрица эффективности SKU
 ![SKU Matrix](sku_matrix.png)
