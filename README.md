@@ -49,7 +49,7 @@ Unit-экономика
 ![Dashboard](https://github.com/anatol1986/wb-marketplace-analysis/blob/main/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4.png?raw=true)
 
 Матрица эффективности SKU
-![SKU Matrix](sku_matrix.png)
+![SKU Matrix]([sku_matrix.png](https://github.com/anatol1986/wb-marketplace-analysis/blob/main/SKIU_%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0.png?raw=true))
 
 Матрица решений по товарам 
 ![Dashboard](таблица решений.png)
